@@ -4,8 +4,8 @@
 ## Get in Touch 🔍
 ### I'd love to connect with fellow programmers, tech enthusiasts, and anyone interested in learning and sharing knowledge. You can reach out to me via the following channels:
 
-### * 📧 Email: vibhashsingh110@gmail.com
-### * 🌐 LinkedIn: https://www.linkedin.com/in/vibhash-singh-160788250/
+### - 📧 Email: vibhashsingh110@gmail.com
+### - 🌐 LinkedIn: https://www.linkedin.com/in/vibhash-singh-160788250/
 
 ## Here are some of my _widgets_ from ***Quine***
 [![Matrix-Mesh's GitHub | Stats](https://stats.quine.sh/Matrix-Mesh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Matrix-Mesh)
